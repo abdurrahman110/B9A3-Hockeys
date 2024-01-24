@@ -1,3 +1,5 @@
-.wrapper {
-  @apply;
+.btn.btn-circle {
+  background: black;
+  color: #fff;
+  border: black;
 }
